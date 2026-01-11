@@ -6,7 +6,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.activite3"
+    namespace = "com.example.activite4"
     compileSdk = flutter.compileSdkVersion
     ndkVersion = flutter.ndkVersion
 
